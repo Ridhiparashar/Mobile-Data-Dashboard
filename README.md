@@ -3,7 +3,7 @@
 This repository contains a dynamic and interactive dashboard visualizing key metrics for mobile sales performance. Built with Power BI  ,this dashboard provides comprehensive insights into sales trends, customer behavior, and product performance.
 
 ## 2. Tech stack
-the dashboard was built with the following tools and technologies:
+The Dashboard was built with the following Tools and Technologies:
 
 -> POWER BI DESKTOP:-main data visualisation platform used for report creation.
 
