@@ -4,10 +4,15 @@ This repository contains a dynamic and interactive dashboard visualizing key met
 
 ## 2. Tech stack
 the dashboard was built with the following tools and technologies:
+
 -> POWER BI DESKTOP:-main data visualisation platform used for report creation.
+
 -> Power Query:-data transformation and cleansing layer for reshaping and preparing the data.
+
 -> DAX(Data analysis expressions):-used for calculated measures ,dynamic visuals,and conditional logics.
+
 -> Data Modelling:-relationships established among tables to enablecross-filtering and aggregation.
+
 -> File Format:-.pbix for development and.png for dashboard previews.
 
 ## 3. Data source
