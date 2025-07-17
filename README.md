@@ -1,5 +1,5 @@
 # Mobile-Data-Dashboard
-## Short description/Purpose
+## Short Description/Purpose
 This repository contains a dynamic and interactive dashboard visualizing key metrics for mobile sales performance. Built with Power BI  ,this dashboard provides comprehensive insights into sales trends, customer behavior, and product performance.
 
 ## Tech stack
